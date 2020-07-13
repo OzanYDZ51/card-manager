@@ -1,0 +1,22 @@
+{
+    "name": "ozan/card-business-manager-epitech",
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "league/plates": "^3.3"
+    },
+    "license": "GNU General Public License",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ozan YILDIZ",
+            "email": "ozan.y@outlook.fr"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.1"
+    }
+}

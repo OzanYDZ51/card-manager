@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+}
+
+.forbidden {
+  font-family: determination, Arial, sans-serif;
+  font-size: 30px;
+  color: #fff;
+}
+
+.border-thick {
+  border: 10px solid #fff;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  color: #fff;
+}
